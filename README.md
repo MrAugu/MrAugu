@@ -1,6 +1,6 @@
 <h1>Hey, I'm MrAugu (a.k.a. Augu)</h1>
 <p align="center">I am a high school student who loves coding.</p>
-<h1>Technologies</h1>
+<!-- <h1>Technologies</h1>
 <p align="center">
   <a text-decoration="none" href="https://nodejs.org/" title="Node.js">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -89,7 +89,7 @@
   <a href="https://flutter.dev/" title="Flutter">
     <img src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" alt="flutter" width="40" height="40">
   </a>
- </p>
+ </p> -->
  
  <h1>GitHub Activity</h1>
  <p align="center">
