@@ -1,5 +1,5 @@
 <h1>Hey, I'm MrAugu (a.k.a. Augu)</h1>
-<p align="center">I am a med school school student who coding part-time.</p>
+<p align="center">I am a med school school student who does some programming part-time.</p>
  <h1>GitHub Activity</h1>
  <p align="center">
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MrAugu&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAugu&layout=compact&count_private=true&theme=tokyonight" alt="mraugu" />
